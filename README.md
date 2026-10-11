@@ -389,6 +389,12 @@ Yalnızca resmî ve kamuya açık belgeler:
 
 ---
 
+## Makaleler
+
+- [Haber sitesinde yazar sayfası ve yazar kimliği nasıl kurulur?](docs/yazar-sayfasi-ve-yazar-kimligi.md)
+
+---
+
 ## Katkı
 
 Düzeltme ve ekleme önerileri için issue açabilirsiniz. Kabul edilmeyenler:
@@ -401,3 +407,5 @@ Düzeltme ve ekleme önerileri için issue açabilirsiniz. Kabul edilmeyenler:
 
 MIT. Derleyen: [Alesta WEB](https://alestaweb.com) — 2005'ten beri haber ve e-ticaret
 yazılımı geliştiriyor.
+
+Son güncelleme: 2026-10-11
