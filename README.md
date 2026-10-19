@@ -9,6 +9,8 @@ yalnızca kamuya açık standartlar ve resmî kurum belgeleri kullanılmıştır
 Genel yayıncılık mevzuatı (künye, mahreç, resmî ilan) ayrı bir konudur ve bu rehberin
 kapsamı dışındadır.
 
+Son güncelleme: 19 Ekim 2026 (şema başlığı uzunluğu Google'ın güncel belgesine göre düzeltildi).
+
 ---
 
 ## İçindekiler
@@ -209,11 +211,13 @@ Haber sayfasında aynı başlık üç farklı yerde kullanılır ve üçü aynı
 |---|---|---|
 | Sayfa başlığı (`title`) | Arama sonucu | 60 karakter civarı |
 | Görünür başlık (`h1`) | Okuyucu | Serbest |
-| Şema `headline` | Yapılandırılmış veri | 110 karakteri aşmaması önerilir |
+| Şema `headline` | Yapılandırılmış veri | Sabit sınır yok; kısa tutulması önerilir |
 
 Açıklama alanı sıralama sinyali değildir ama tıklanma oranını doğrudan etkiler. Haberin
 ilk cümlesini kopyalamak yerine, haberin **neden önemli olduğunu** söyleyen bir cümle
 daha iyi çalışır.
+
+Başlık ve spot yazımı için ayrıntılı yazı: [Haber başlığı ve özet](docs/haber-basligi-ve-ozet.md).
 
 Tarih alanlarında en sık görülen teknik hata **saat dilimi eksikliğidir**. Saat dilimi
 belirtilmemiş bir yayın zamanı, sunucunun bulunduğu yere göre yorumlanır ve haber üç saat
