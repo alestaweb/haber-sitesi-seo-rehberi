@@ -391,6 +391,7 @@ Yalnızca resmî ve kamuya açık belgeler:
 
 ## Makaleler
 
+- [Haber başlığı ve özet: arama motoru ile okur arasında denge](docs/haber-basligi-ve-ozet.md)
 - [Haber sitesinde yazar sayfası ve yazar kimliği nasıl kurulur?](docs/yazar-sayfasi-ve-yazar-kimligi.md)
 
 ---
