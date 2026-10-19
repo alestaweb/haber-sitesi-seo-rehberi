@@ -9,8 +9,6 @@ yalnızca kamuya açık standartlar ve resmî kurum belgeleri kullanılmıştır
 Genel yayıncılık mevzuatı (künye, mahreç, resmî ilan) ayrı bir konudur ve bu rehberin
 kapsamı dışındadır.
 
-Son güncelleme: 19 Ekim 2026 (şema başlığı uzunluğu Google'ın güncel belgesine göre düzeltildi).
-
 ---
 
 ## İçindekiler
@@ -90,7 +88,7 @@ lehinize çalışır.
 
 | Alan | Ne yazılır | Not |
 |---|---|---|
-| `headline` | Haberin başlığı | 110 karakteri aşmaması önerilir |
+| `headline` | Haberin başlığı | Sabit sınır yok; uzun başlık bazı cihazlarda kesilir |
 | `datePublished` | İlk yayın anı | **Saat dilimi bilgisiyle**, ISO 8601 |
 | `dateModified` | Son anlamlı güncelleme | Kozmetik değişiklikte güncellenmez |
 | `author` | Kişi veya kurum | Adı yeterli değil, `url` de verilmeli |
@@ -413,4 +411,4 @@ Düzeltme ve ekleme önerileri için issue açabilirsiniz. Kabul edilmeyenler:
 MIT. Derleyen: [Alesta WEB](https://alestaweb.com) — 2005'ten beri haber ve e-ticaret
 yazılımı geliştiriyor.
 
-Son güncelleme: 2026-10-11
+Son güncelleme: 2026-10-19
